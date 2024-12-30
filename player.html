@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>播放页 - 英语点读</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- 引入通用样式 -->
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>英语点读 - 播放页面</h1>
+  
+  <!-- 返回列表按钮（可选）-->
+  <p><a href="courses.html">返回课程列表</a></p>
+
+  <!-- 连续播放复选框 -->
+  <label>
+    <input type="checkbox" id="continuousMode">
+    连续播放
+  </label>
+  
+  <!-- 音频控件：src 将由脚本动态设置 -->
+  <audio id="audioPlayer" src="" controls></audio>
+
+  <!-- 字幕容器：由脚本渲染 -->
+  <div id="lyricsContainer"></div>
+
+  <!-- 引入脚本 -->
+  <script src="script.js"></script>
+</body>
+</html>

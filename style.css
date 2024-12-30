@@ -1,0 +1,63 @@
+/* body通用设置 */
+body {
+    margin: 0 auto;
+    padding: 0 10px;
+    max-width: 600px;
+    font-family: sans-serif;
+    box-sizing: border-box;
+  }
+  
+  /* 标题 */
+  h1 {
+    font-size: 1.5rem;
+    text-align: center;
+    margin: 1rem 0;
+  }
+  
+  /* 列表页的ul */
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    margin: 0.5rem 0;
+  }
+  
+  /* 音频控件：自适应宽度 */
+  audio {
+    width: 100%;
+    margin: 1rem 0;
+  }
+  
+  /* 字幕容器 */
+  #lyricsContainer {
+    margin-top: 1rem;
+  }
+  
+  /* 字幕行 */
+  .lyric-line {
+    cursor: pointer;
+    margin: 6px 0;
+    line-height: 1.4;
+    padding: 0.5rem;
+    border-radius: 4px;
+  }
+  
+  /* 悬停（PC端） */
+  .lyric-line:hover {
+    background-color: #f0f0f0;
+  }
+  
+  /* 点击后高亮 */
+  .lyric-line.active {
+    background-color: yellow;
+  }
+  
+  /* 小屏幕适配 */
+  @media (max-width: 480px) {
+    h1 {
+      font-size: 1.2rem;
+    }
+  }
+  
