@@ -4,14 +4,14 @@
   <meta charset="UTF-8">
   <title>播放页 - 英语点读</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <!-- 引入通用样式 -->
+  <!-- 通用样式 -->
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
   <h1>英语点读 - 播放页面</h1>
   
-  <!-- 返回列表按钮（可选）-->
-  <p><a href="courses.html">返回课程列表</a></p>
+  <!-- 返回列表按钮（可选） -->
+  <p><a href="index.html">返回列表</a></p>
 
   <!-- 连续播放复选框 -->
   <label>
@@ -19,13 +19,13 @@
     连续播放
   </label>
   
-  <!-- 音频控件：src 将由脚本动态设置 -->
+  <!-- 音频控件，src由脚本中动态设置（也可在这里预设空） -->
   <audio id="audioPlayer" src="" controls></audio>
 
-  <!-- 字幕容器：由脚本渲染 -->
+  <!-- 字幕容器，由脚本动态渲染 -->
   <div id="lyricsContainer"></div>
 
-  <!-- 引入脚本 -->
+  <!-- 引入核心JS逻辑（解析SRT + 播放） -->
   <script src="script.js"></script>
 </body>
 </html>
