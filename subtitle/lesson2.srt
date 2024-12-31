@@ -27,11 +27,11 @@ so we're gonna give you some great phrases in vocabulary for when you want to as
 so let's just listen to our dialogue today where at an office where live wants some time off
 
 8
-00:00:33,800 --> 00:00:44,700
+00:00:42,800 --> 00:00:44,700
 Mr mckenna do you have a second
 
 9
-00:00:44,700 --> 00:00:46,400
+00:00:44,700 --> 00:00:46,100
 I need to talk to you about something
 
 10
@@ -47,7 +47,7 @@ well I was just wondering you see
 I know I've used up all my vacation days this year but my sister's getting married and the wedding is over season well
 
 13
-00:00:58,100 --> 00:01:00,433
+00:00:58,100 --> 00:01:00,100
 you want to take some time off is that right
 
 14
@@ -63,11 +63,11 @@ I was just hoping I might be able to take some unpaid leave this year
 what dates are you planning on taking off
 
 17
-00:01:06,700 --> 00:01:10,133
+00:01:06,700 --> 00:01:10,000
 I'll need at least 2 months notice so that I can plan for your absence
 
 18
-00:01:10,133 --> 00:01:15,000
+00:01:10,133 --> 00:01:14,500
 I was thinking of taking off from September first until the 30
 
 19
@@ -79,7 +79,7 @@ would you be okay with that
 well I guess so
 
 21
-00:01:24,000 --> 00:01:29,433
+00:01:24,000 --> 00:01:29,100
 well it sounds like the boss wasn't too happy about lives requests
 
 22
@@ -103,7 +103,7 @@ yeah okay we have some great words for you today so let's start with our languag
 language take away
 
 27
-00:01:46,100 --> 00:01:50,333
+00:01:46,100 --> 00:01:50,100
 4 words on our language take away today Erica why don't you tell us the first one
 
 28
@@ -111,15 +111,15 @@ language take away
 the first word is vacation days
 
 29
-00:01:52,933 --> 00:01:54,066
+00:01:52,933 --> 00:01:54,000
 vacation days
 
 30
-00:01:54,100 --> 00:01:56,066
-vacation days
+00:01:54,100 --> 00:01:55,600
+vacation days  ---"Vacation days" 指的是员工或学生可以休息、放松或旅行的休假日天数。
 
 31
-00:01:56,100 --> 00:01:57,433
+00:01:56,100 --> 00:01:57,350
 so what are vacation days
 
 32
@@ -131,7 +131,7 @@ basically it's the number of personal leave days
 so the number of days that you can take to go on vacation mm hmm
 
 34
-00:02:06,733 --> 00:02:09,033
+00:02:06,733 --> 00:02:08,333
 how many vacation days do you have
 
 35
@@ -160,14 +160,14 @@ vacation day
 
 41
 00:02:23,400 --> 00:02:26,633
-we can't take too many vacation days or else we won't make any more podcast
+we can't take too many vacation days or else we won't make any more podcast  ---如果我们休假太多，就不能继续做播客了。
 
 42
 00:02:26,633 --> 00:02:28,233
 I know
 
 43
-00:02:28,300 --> 00:02:32,266
+00:02:28,300 --> 00:02:32,000
 why don't we look at our second word overseas
 
 44
@@ -175,7 +175,7 @@ why don't we look at our second word overseas
 overseas overseas
 
 45
-00:02:35,300 --> 00:02:38,833
+00:02:35,300 --> 00:02:38,633
 when you travel overseas you travel over the ocean
 
 46
@@ -219,28 +219,28 @@ notice notice
 so we have some great examples on how we use notice
 
 56
-00:03:05,900 --> 00:03:08,533
-and from these examples I'm sure you'll be able to
-
-57
-00:03:08,533 --> 00:03:11,500
-understand exactly what they mean
+00:03:05,900 --> 00:03:11,133
+and from these examples I'm sure you'll be able to understand exactly what they mean
 
 58
 00:03:11,533 --> 00:03:16,833
 example one
 
 59
-00:03:16,900 --> 00:03:20,933
+00:03:16,900 --> 00:03:20,333
 if you want to quit your job make sure you give enough notice
 
 60
-00:03:20,933 --> 00:03:34,633
+00:03:20,933 --> 00:03:25,000
 you'll need to tell us 4 weeks in advance
 
+57
+00:03:26,000 --> 00:03:34,633
+example two
+
 61
-00:03:34,700 --> 00:03:43,933
-you didn't give me enough notice about this project  I didn't have enough time to finish it
+00:03:34,700 --> 00:03:42,000
+you didn't give me enough notice about this project  I didn't have enough time to finish it.
 
 62
 00:03:43,933 --> 00:03:49,200
@@ -251,7 +251,7 @@ so when you give someone notice you give them information in advance in advance 
 so if I want to take time off I need to give my boss notice advanced information right 15 day notice or a 20 day notice etc
 
 64
-00:03:58,500 --> 00:04:13,066
+00:03:58,433 --> 00:04:07,000
 great so that's our language takeaway for today now we are ready to listen to our dialogue a second time and this time it's gonna be really slow
 
 65
@@ -259,11 +259,11 @@ great so that's our language takeaway for today now we are ready to listen to ou
 Mr mckenna do you have a second I need to talk to you about something
 
 66
-00:04:19,066 --> 00:04:25,566
+00:04:19,066 --> 00:04:22,566
 sure Liv what can I do for you
 
 67
-00:04:25,600 --> 00:04:27,033
+00:04:22,560 --> 00:04:27,033
 well I was just wondering you see
 
 68
@@ -279,7 +279,7 @@ you want to take some time off is that right
 well sir I was just hoping that I might be able to take some unpaid leave this year what dates are you planning on taking off
 
 71
-00:04:49,733 --> 00:04:54,633
+00:04:49,733 --> 00:04:54,000
 I'll need at least 2 months notice so that I can plan for your absence
 
 72
@@ -295,8 +295,8 @@ would you be okay with that
 I guess so
 
 75
-00:05:05,500 --> 00:05:16,166
-a lot of non native English speakers sometimes feel quite nervous about asking their boss for time off
+00:05:07,900 --> 00:05:15,000
+a lot of non native English speakers sometimes feel quite nervous about asking their boss for time off.
 
 76
 00:05:16,200 --> 00:05:19,300
@@ -311,7 +311,7 @@ yeah but today we're gonna teach you some great phrases that you can use next ti
 great
 
 79
-00:05:25,733 --> 00:05:30,666
+00:05:25,733 --> 00:05:29,666
 so why don't we take a look at putting it together
 
 80
@@ -363,11 +363,11 @@ do you have a minute I want to ask you something
 do you have a SEC I need to talk to you
 
 92
-00:06:07,433 --> 00:06:09,000
+00:06:07,433 --> 00:06:08,775
 a great way to approach your boss
 
 93
-00:06:09,033 --> 00:06:10,900
+00:06:09,033 --> 00:06:10,500
 yeah I love this phrase
 
 94
@@ -407,7 +407,7 @@ and we've got 2 other examples of how you can use it
 example one
 
 103
-00:06:36,900 --> 00:06:40,100
+00:06:36,900 --> 00:06:39,100
 are you all right with that
 
 104
@@ -439,79 +439,23 @@ really useful language
 yes okay so now let's listen to our dialogue third time
 
 111
-00:07:07,000 --> 00:07:08,933
-Mr mckenna do you have a second
-
-112
-00:07:08,933 --> 00:07:10,633
-I need to talk to you about something
-
-113
-00:07:10,700 --> 00:07:12,733
-sure live what can I do for you
-
-114
-00:07:12,733 --> 00:07:14,600
-well I was just wondering
-
-115
-00:07:14,633 --> 00:07:15,833
-you see
-
-116
-00:07:15,900 --> 00:07:18,266
-I know I've used up all my vacation days this year
-
-117
-00:07:18,300 --> 00:07:19,700
-but my sister's getting married
-
-118
-00:07:19,700 --> 00:07:22,266
-and the wedding is over season well
-
-119
-00:07:22,300 --> 00:07:24,633
-you want to take some time off is that right
-
-120
-00:07:24,700 --> 00:07:25,700
+00:07:07,000 --> 00:07:48,000
+Mr mckenna do you have a second? 
+I need to talk to you about something.
+sure Liv what can I do for you?
+well I was just wondering, you see
+I know I've used up all my vacation days this year.
+but my sister's getting married and the wedding is over season well
+you want to take some time off is that right.
 well sir
-
-121
-00:07:25,700 --> 00:07:28,233
 I was just hoping I might be able to take some unpaid
-
-122
-00:07:28,300 --> 00:07:29,133
-leave this year
-
-123
-00:07:29,133 --> 00:07:30,866
-what dates are you planning on taking off
-
-124
-00:07:30,900 --> 00:07:32,433
+leave this year.
+what dates are you planning on taking off?
 I'll need at least 2 months notice
-
-125
-00:07:32,500 --> 00:07:34,366
-so that I can plan for your absence
-
-126
-00:07:34,400 --> 00:07:36,700
+so that I can plan for your absence.
 I was thinking of taking off from September first
-
-127
-00:07:36,700 --> 00:07:39,233
 until the 30
-
-128
-00:07:39,300 --> 00:07:40,966
 would you be okay with that
-
-129
-00:07:41,000 --> 00:07:48,333
 well I guess so
 
 130
@@ -555,7 +499,7 @@ right I was like well
 she's kind of setting up to ask for a favor or something yeah
 
 140
-00:08:17,600 --> 00:08:20,533
+00:08:17,600 --> 00:08:20,000
 and she also used another phrase that I thought was interesting
 
 141
@@ -627,11 +571,8 @@ I want to yes
 too strong right yeah in English
 
 158
-00:08:55,700 --> 00:08:59,700
+00:08:55,700 --> 00:09:02,000
 sometimes we are careful to not be too direct
-
-159
-00:08:59,733 --> 00:09:02,666
 when we're asking for something right
 
 160
@@ -655,20 +596,14 @@ yeah you sound rude
 yeah
 
 165
-00:09:09,900 --> 00:09:11,066
-okay so great
-
-166
-00:09:11,100 --> 00:09:12,666
-tips and great things to take
-
-167
-00:09:12,700 --> 00:09:15,133
-into consideration the next time you're talking
-
-168
-00:09:15,200 --> 00:09:15,866
-into your boss
+00:09:09,900 --> 00:09:15,500
+okay so great tips and great things to take into consideration the next time you're talking into your boss
+to take into consideration：
+这是一个固定短语，意思是 "考虑"、"把……纳入考虑范围"。
+take 是动词，表示 "拿"、"采纳"。
+into 是介词，表示 "进入"。
+consideration 是名词，意思是 "考虑"、"审慎考虑"。
+整句话的意思是：好吧，所以下次和老板交谈时，记得考虑一些很棒的建议和要点。
 
 169
 00:09:15,900 --> 00:09:16,533
