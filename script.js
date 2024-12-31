@@ -173,7 +173,7 @@ function highlightSubtitleLine(index) {
   // 如果缺少参数 => 回到列表页（或给出提示）
   if (!audioParam || !srtParam) {
     alert("没有指定音频或字幕文件，返回列表页。");
-    window.location.href = "index.html";
+    window.location.href = "index1.html";
     return;
   }
 
