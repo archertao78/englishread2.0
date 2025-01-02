@@ -19,8 +19,21 @@
     连续播放
   </label>
   
-  <!-- 音频控件，src由脚本中动态设置（也可在这里预设空） -->
-  <audio id="audioPlayer" src="" controls></audio>
+  <!-- 音频控件，src由脚本中动态设置（也可在这里预设空） 
+  <audio> 是 HTML5 中新增的标签，用来嵌入音频内容。 它可以让网页直接播放音频文件，而不需要依赖外部插件（如 Flash）。
+    这个标签本身不会显示播放器界面，但你可以通过添加不同的属性来控制音频的播放行为。
+id="audioPlayer"这个 id 属性为音频元素指定了一个唯一的标识符（audioPlayer），通过这个 id，JavaScript 可以方便地获取该音频元素，并控制其播放行为（例如开始播放、暂停、调整音量等）。
+在 JavaScript 中，你可以通过 document.getElementById('audioPlayer') 来获取这个音频元素。
+src=""src 是音频文件的来源（即路径）。通常，它会指向音频文件的位置，
+controls属性是一个布尔属性（不需要设置值，只需存在即可），它告诉浏览器为音频播放器显示内置的控件
+总结
+<audio id="audioPlayer" src="" controls></audio> 的作用是：
+
+创建一个音频播放器，用户可以通过控制面板来控制音频的播放、暂停、音量等。
+src 属性指定音频文件的路径，controls 属性显示播放器的控制界面。
+这个 audio 元素的 src 属性通常会通过 JavaScript 来动态赋值，以便加载不同的音频文件并播放。-->
+  
+  <audio id="audioPlayer" src="" controls></audio>  
 
   <!-- 字幕容器，由脚本动态渲染 -->
   <div id="lyricsContainer"></div>

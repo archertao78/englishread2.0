@@ -1,0 +1,48 @@
+﻿1
+00:00:00,040 --> 00:00:03,080
+Englishpod.com
+
+2
+00:00:09,920 --> 00:00:14,860
+A: Good evening. My name is Fabio, I'll be your waiter for tonight. May I take your order?
+
+3
+00:00:14,860 --> 00:00:17,050
+B: No, I'm still working on it.
+
+4
+00:00:17,050 --> 00:00:20,550
+This menu is not even in English. What's good here?
+
+5
+00:00:21,240 --> 00:00:25,680
+A: For you sir, I would recommend spaghetti and meatballs.
+
+6
+00:00:25,960 --> 00:00:28,040
+B: Does it come with coke and fries?
+
+7
+00:00:28,840 --> 00:00:34,920
+A: It comes with either soup or salad and a complimentary glass of wine, Sir.
+
+8
+00:00:35,840 --> 00:00:40,600
+B: I'll go with the spaghetti and meatballs, salad and the wine.
+
+9
+00:00:40,640 --> 00:00:45,240
+A: Excellent choice, your order will be ready soon.
+
+10
+00:00:45,440 --> 00:00:47,200
+B: How soon is soon?
+
+11
+00:00:47,800 --> 00:00:49,040
+A: Twenty minutes?
+
+12
+00:00:49,640 --> 00:00:52,400
+B: You know what? I'll just go grab a burger across the street.
+

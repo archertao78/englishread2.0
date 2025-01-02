@@ -1,0 +1,72 @@
+﻿1
+00:00:01,110 --> 00:00:02,643
+English pod com
+
+2
+00:00:08,950 --> 00:00:09,870
+Good afternoon
+
+3
+00:00:09,840 --> 00:00:11,209
+what can I do for you
+
+4
+00:00:11,610 --> 00:00:12,960
+I'd like to check in and please
+
+5
+00:00:13,160 --> 00:00:16,243
+I have a reservation under the name Anthony Roberts
+
+6
+00:00:16,643 --> 00:00:17,443
+all right
+
+7
+00:00:18,376 --> 00:00:22,443
+Roberts oh Mr Roberts we've been expecting you
+
+8
+00:00:22,510 --> 00:00:25,310
+and here is your key card to the presidential suite
+
+9
+00:00:26,310 --> 00:00:28,160
+but there must be some mistake
+
+10
+00:00:28,210 --> 00:00:30,176
+my reservation was for a standard room
+
+11
+00:00:30,576 --> 00:00:33,009
+are you sure let me double check
+
+12
+00:00:33,280 --> 00:00:35,676
+Yeah, here this is my confirmation number
+
+13
+00:00:37,010 --> 00:00:40,676
+you're right Mr Roberts there seems to be a mix up
+
+14
+00:00:40,676 --> 00:00:43,276
+Unfortunately we're over booked at the moment
+
+15
+00:00:44,443 --> 00:00:45,243
+so
+
+16
+00:00:46,443 --> 00:00:47,276
+Not to worry
+
+17
+00:00:47,310 --> 00:00:50,176
+We're pleased to offer you a complimentary upgrade
+
+18
+00:00:50,310 --> 00:00:53,410
+Who presidential sweet baby
+
