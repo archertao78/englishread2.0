@@ -83,6 +83,10 @@ function renderSubtitles(subsData, container) {
     lineDiv.classList.add("lyric-line");
     lineDiv.textContent = subsData[i].text;
 
+    // 在中英文之间添加换行符
+    const text = subsData[i].text.replace(/([a-zA-Z.,!?])\s*([\u4e00-\u9fa5])/g, '$1\n$2');
+    lineDiv.textContent = text;
+
     lineDiv.dataset.index = i;
 
     // 点击字幕
@@ -190,3 +194,4 @@ function highlightSubtitleLine(index) {
   // 若想页面加载后立即播放第1段，可执行：
   // playSegment(0);
 })();
+

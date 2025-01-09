@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>视频播放</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <!-- 返回列表按钮（可选） -->
+  <p><a href="index1.html">返回列表</a></p>
+  
+  <h1>正在播放</h1>
+
+  <!-- 视频播放器 -->
+  <video id="videoPlayer" width="640" height="360" controls autoplay>
+    <source id="videoSource" src="" type="video/mp4">
+    您的浏览器不支持 video 标签。
+  </video>
+
+  <!-- 图片显示区域 -->
+  <div class="image-container">
+    <img id="displayImage" src="./img/img1.jpg" alt="相关图片" class="responsive-image">
+  </div>
+
+  <script src="script3.js"></script>
+</body>
+</html>

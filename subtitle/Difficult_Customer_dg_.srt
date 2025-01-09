@@ -1,0 +1,48 @@
+﻿1
+00:00:00,040 --> 00:00:03,080
+Englishpod.com		Englishpod.com
+
+2
+00:00:09,920 --> 00:00:14,860
+A: Good evening. My name is Fabio, I'll be your waiter for tonight. May I take your order?		甲:晚上好。我叫法比奥，今晚我将为您服务。我可以为你点菜吗？
+
+3
+00:00:14,860 --> 00:00:17,050
+B: No, I'm still working on it.		没有，我还在努力。
+
+4
+00:00:17,050 --> 00:00:20,550
+This menu is not even in English. What's good here?		这份菜单甚至不是英文的。这里有什么好吃的？
+
+5
+00:00:21,240 --> 00:00:25,680
+A: For you sir, I would recommend spaghetti and meatballs.		先生，我向您推荐意大利面和肉丸。
+
+6
+00:00:25,960 --> 00:00:28,040
+B: Does it come with coke and fries?		有可乐和薯条吗？
+
+7
+00:00:28,840 --> 00:00:34,920
+A: It comes with either soup or salad and a complimentary glass of wine, Sir.		它配有汤或沙拉以及一杯免费的葡萄酒，先生。
+
+8
+00:00:35,840 --> 00:00:40,600
+B: I'll go with the spaghetti and meatballs, salad and the wine.		我要意大利面和肉丸、沙拉和葡萄酒。
+
+9
+00:00:40,640 --> 00:00:45,240
+A: Excellent choice, your order will be ready soon.		很好的选择，您点的菜很快就好了。
+
+10
+00:00:45,440 --> 00:00:47,200
+B: How soon is soon?		多久是很快？
+
+11
+00:00:47,800 --> 00:00:49,040
+A: Twenty minutes?		二十分钟？
+
+12
+00:00:49,640 --> 00:00:52,400
+B: You know what? I'll just go grab a burger across the street.		你知道吗？我去街对面买个汉堡。街道。
+

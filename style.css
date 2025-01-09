@@ -53,11 +53,60 @@ body {
   .lyric-line.active {
     background-color: yellow;
   }
+  /* 双语字幕排版（如果有） */
+  .lyric-line .translation {
+    display: block;
+    font-size: 14px;
+    color: #666;
+    margin-top: 4px;
+  }
   
+  
+  /* 或者直接在 m: 和其他说话人标记后添加换行 */
+  .lyric-line {
+    white-space: pre-line;  /* 保留换行符，合并空格 */
+  }
+
   /* 小屏幕适配 */
-  @media (max-width: 480px) {
+  @media (max-width: 768px) {
     h1 {
       font-size: 1.2rem;
     }
+    #videoPlayer {
+      margin: 0 auto; /* 居中对齐 */
+  }
+  }
+  #videoPlayer {
+    /* border: 2px solid red; 给视频播放器加个红色边框 */
+           width: 100%; /* 占满父容器宽度 */
+           height: auto; /* 自动调整高度，保持宽高比 */
+           max-width: 100%; /* 限制最大宽度，避免溢出 */
+           border: none; /* 去除边框（如果需要） */
+    }
+    /* 图片容器样式 */
+.image-container {
+  width: 100%;
+  max-width: 640px;  /* 电脑端最大宽度 */
+  margin: 20px auto;
+}
+
+/* 响应式图片样式 */
+.responsive-image {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  max-width: 100%;
+  display: block;
+}
+
+/* 手机端特别处理 */
+@media screen and (max-width: 768px) {
+  .image-container {
+    width: 95%;    /* 留一点边距 */
+    margin: 10px auto;
   }
   
+  .responsive-image {
+    height: auto;   /* 高度自适应 */
+  }
+}
